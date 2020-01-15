@@ -1,0 +1,12 @@
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate/
+*/Saved
+*_BuiltData.uasset
+*.db-wal
+*.VC.db
+*.db-shm
+EscapeTheRoom/.vs/EscapeTheRoom/v16/ipch/
+EscapeTheRoom/.vs/EscapeTheRoom/v15/ipch/
+EscapeTheRoom/Content/StarterContent/
